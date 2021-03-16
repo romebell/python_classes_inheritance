@@ -41,4 +41,4 @@ steves_cup.fill() # dot notation when using methods
 steves_cup.drink(12) # method chaining...
 print(steves_cup.amount)
 print(steves_cup) # print the instance of steves_cup
-print(help(steves_cup))
+print(help(steves_cup)) # seeing the methods that are on this instance
